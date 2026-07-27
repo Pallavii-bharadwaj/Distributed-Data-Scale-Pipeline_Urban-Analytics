@@ -1,4 +1,4 @@
-# Broken Windows Theory — London Crime Analysis
+# Distributed Data Scale Pipeline - Urban Analytics
 
 An end-to-end cloud data pipeline and analytical study investigating the **Broken Windows Theory** across all 32 London boroughs using crime, fly-tipping, and recycling data. Built on **Azure Data Lake Gen2, Databricks, Delta Lake, and Tableau**, processing 1M+ records spanning 2008–2023.
 
